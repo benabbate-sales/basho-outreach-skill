@@ -58,9 +58,39 @@ The recipient reads paragraph 1 and thinks *"this person actually knows what I d
 
 See [`skills/basho-outreach/assets/`](skills/basho-outreach/assets/) for shape references — recruiter, prospect, and partner variants. They are not fill-in-the-blanks. They are examples of the right skeleton.
 
+## Example output
+
+Here's the kind of email this skill produces — a recruiter-variant basho, drafted from the filled-in `CONFIG.md` example at the bottom of that file.
+
+<details>
+<summary>Click to expand example email</summary>
+
+> **Subject:** Your placements in vertical-SaaS sales leadership
+>
+> Hi Alex,
+>
+> I read your piece last month on the collapse of pure-hunter roles at growth-stage vertical SaaS firms — specifically your point about PLG motions pushing the AE archetype toward embedded land-and-expand. It maps closely to the shift I've been navigating on the other side of the table.
+>
+> I'm Head of Revenue at Northline Labs — we help 200–2000-person B2B SaaS firms consolidate data-vendor contracts. Before this, I led commercial teams at Acme Cloud and Redwood Systems through exactly the transition you described. I'm not actively looking, but I'm at the stage where it's worth keeping a small group of trusted recruiters close — people who genuinely know the market.
+>
+> Would 20 minutes on Thursday at 3pm EST work, or is early next week better?
+>
+> Best,
+> Dana
+
+**What to notice:**
+
+- Subject mirrors a specific piece the recipient wrote — not a pitch.
+- Paragraph 1 references one verifiable thing (the piece + a precise point from it). No "your impressive work."
+- Paragraph 2 uses named clients (Acme Cloud, Redwood Systems) and a real "why now" — not "I'd love to connect."
+- CTA proposes a specific slot with timezone. Easy yes/no.
+- 138 words total. No buzzwords. First-person, measured.
+
+</details>
+
 ## Credit
 
-Built by Ben. The underlying framework is John Barrows' [basho approach](https://www.jbarrows.com/).
+Built by [Ben Abbate](https://github.com/benabbate-sales). The underlying framework is John Barrows' [basho approach](https://www.jbarrows.com/).
 
 ## License
 
