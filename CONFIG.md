@@ -22,13 +22,24 @@ When you're done, the skill will have everything it needs to draft emails withou
 - **Secondary persona, if any:**
 - **What pressure are they usually under?** (the thing your firm's pitch actually addresses)
 
-## Named references — clients you can cite
+## Named references — names you may use
 
-List 3–6 named clients safe to drop into a cold email. Ideally recognisable names in your sector. If you don't have any yet, list 2–3 sectors or deal patterns you can cite instead.
+**The skill anonymises other people's business by default.** A client, customer or engagement is
+described by shape — *a Series-B payments company*, *a Tier-1 bank's market-data function* — unless
+you list them below. **Your own employers, roles and record are the exception**: those are your
+positioning proof and the skill treats them as nameable.
 
-1.
-2.
-3.
+**Silence here is not permission.** A name that is not on this list does not go in an email; the
+skill uses the shape instead and says which check it applied.
+
+- **Clients or customers cleared to be named** — only ones who have actually agreed:
+  1.
+  2.
+  3.
+- **If you have none yet**, list the sectors or deal patterns you can describe instead:
+  1.
+  2.
+- **Anything that must stay anonymous even in shape form:**
 
 ## Voice rules
 
