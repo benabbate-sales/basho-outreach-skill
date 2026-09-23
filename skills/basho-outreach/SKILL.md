@@ -15,7 +15,7 @@ description: >-
 
 # Basho-style outreach
 
-**Build:** `basho-outreach · 2026-08-05 · canon-optional-rebuild`
+**Build:** `basho-outreach · 2026-09-23 · voice-check`
 
 One hand-crafted first-touch email to one specific person. It trades volume for hit rate: the
 recipient can tell from the first sentence that it was written to them and not to a list.
@@ -140,6 +140,11 @@ Where the operator profile sets a rule, it wins. Absent one:
   [firm] would love to…*
 - **Numbers as digits.**
 
+**Run the operator's voice check before handing the draft over.** If the repo's canon names a
+pre-delivery voice check, such as a script or a checklist, run it on the draft in the register it
+names for writing sent as the operator. Fix what it fails, and say in the output that it ran. If
+no check is named, skip this step.
+
 ## Output format
 
 ```
@@ -193,3 +198,5 @@ packaged — so both of its dependencies were dangling and its only fallback was
 variants are folded into this file for that reason. **This file greps clean for values**: the only
 digits are the length band and the twenty-minute example, both framework parameters, both
 overridable by the profile.*
+
+*Patched 23 Sep 2026 (`voice-check`): the Voice section gains the operator's pre-delivery voice check, run when the installing repo names one; the public build still names no repo file. Ben's ruling, 23 Sep 2026.*
