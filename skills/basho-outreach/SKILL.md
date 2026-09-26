@@ -15,7 +15,7 @@ description: >-
 
 # Basho-style outreach
 
-**Build:** `basho-outreach · 2026-09-23 · voice-check`
+**Build:** `basho-outreach · 2026-09-26 · skill-text`
 
 One hand-crafted first-touch email to one specific person. It trades volume for hit rate: the
 recipient can tell from the first sentence that it was written to them and not to a list.
@@ -190,13 +190,4 @@ gates outbound messages to a person, that gate applies here: show the exact text
   which check it failed.
 
 ---
-*Rebuilt 5 Aug 2026 to `NEW-SKILL-STANDARD.md` as a **canon-optional** build: one file that ships
-byte-identical standalone and inside an operator's own repo, because two builds of the same method
-is the drift this rebuild exists to remove. The prior build read a `CONFIG.md` that existed in no
-copy of the repo, and told the reader to open three `assets/*-template.md` files that were never
-packaged — so both of its dependencies were dangling and its only fallback was to improvise. The
-variants are folded into this file for that reason. **This file greps clean for values**: the only
-digits are the length band and the twenty-minute example, both framework parameters, both
-overridable by the profile.*
-
-*Patched 23 Sep 2026 (`voice-check`): the Voice section gains the operator's pre-delivery voice check, run when the installing repo names one; the public build still names no repo file. Ben's ruling, 23 Sep 2026.*
+*Current as of: 26 Sep 2026. History: git.*
